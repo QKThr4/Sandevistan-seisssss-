@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "C",
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": { "item": "sandevistan:chip" }
+  },
+  "result": { "id": "sandevistan:espinha", "count": 1 }
+}

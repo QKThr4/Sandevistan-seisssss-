@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CRC"
+  ],
+  "key": {
+    "C": { "item": "sandevistan:chip" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": { "id": "sandevistan:neuralink", "count": 1 }
+}

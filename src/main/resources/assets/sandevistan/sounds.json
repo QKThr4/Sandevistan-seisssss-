@@ -1,0 +1,4 @@
+{
+  "sandevistan_on": { "sounds": [ { "name": "sandevistan:sandevistan_on", "stream": false } ] },
+  "sandevistan_off": { "sounds": [ { "name": "sandevistan:sandevistan_off", "stream": false } ] }
+}
